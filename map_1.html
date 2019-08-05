@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="bootstrap-4.0.0-dist/css/bootstrap.css">
+        <title>D3: Setting path fills</title>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <style type="text/css">
+            /* No style rules here yet */
+        </style>
+    </head>
+    <body>
+      <header>
+      <nav class="navbar navbar-expand-lg fitted-top navbar-light bg-secondary">
+        <div class="container">
+        <a class="navbar-brand mb-0 h1 text-light" href="cw1.html">Data Visualisation</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link text-light" href="cw1.html">Home<span class="sr-only">(current)</span></a>
+            </li>
+            <li class='nav-item'>
+              <a class="nav-link text-light alert-link" href="Visualisation.html">Capacity</a>
+            </li>
+            <li class='nav-item'>
+              <a class="nav-link text-light alert-link" href="Map.html">World map</a>
+            </li>
+            <li class='nav-item'>
+              <a class="nav-link text-light alert-link" href="FuelCondition.html">Fuel use</a>
+            </li>
+            <li class='nav-item'>
+              <a class="nav-link text-light alert-link" href="Report.html">Report</a>
+            </li>
+          </ul>
+          <button type="button" class="btn btn-primary" onclick="showMap()" >Show Map</button>
+          <!--Choose year menu-->
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Choose Year
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+              <button class="dropdown-item" type="button" onclick="getYear('2010')">2010</button>
+              <button class="dropdown-item" type="button" onclick="getYear('2011')">2011</button>
+              <button class="dropdown-item" type="button" onclick="getYear('2012')">2012</button>
+              <button class="dropdown-item" type="button" onclick="getYear('2013')">2013</button>
+              <button class="dropdown-item" type="button" onclick="getYear('2014')">2014</button>
+              <button class="dropdown-item" type="button" onclick="getYear('2015')">2015</button>
+              <button class="dropdown-item" type="button" onclick="getYear('2016')">2016</button>
+              <button class="dropdown-item" type="button" onclick="getYear('2017')">2017</button>
+            </div>
+          </div>
+
+          <!--Choose Site menu-->
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Choose Site
+            </button>
+            <div class="dropdown-menu pre-scrollable" aria-labelledby="dropdownMenu2">
+              <button class="dropdown-item" type="button" onclick="getSite('Ashley')">Ashley</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Avonmouth & Lawrence Weston')">Avonmouth & Lawrence Weston</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Bedminster')">Bedminster</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Bishopston & Ashley Down')">Bishopston & Ashley Down</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Bishopsworth')">Bishopsworth</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Brislington East')">Brislington East</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Brislington West')">Brislington West</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Central')">Central</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Clifton')">Clifton</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Clifton Down')">Clifton Down</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Cotham')">Cotham</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Easton')">Easton</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Eastville')">Eastville</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Filwood')">Filwood</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Frome Vale')">Frome Vale</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Hartcliffe & Withywood')">Hartcliffe & Withywood</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Henbury & Brentry')">Henbury & Brentry</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Hengrove & Whitchurch Park')">Hengrove & Whitchurch Park</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Hillfields')">Hillfields</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Horfield')">Horfield</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Hotwells & Harbourside')">Hotwells & Harbourside</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Knowle')">Knowle</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Lawrence Hill')">Lawrence Hill</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Lockleaze')">Lockleaze</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Redland')">Redland</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Southville')">Southville</button>
+              <button class="dropdown-item" type="button" onclick="getSite('St George Central')">St George Central</button>
+              <button class="dropdown-item" type="button" onclick="getSite('St George Troopers Hill')">St George Troopers Hill</button>
+              <button class="dropdown-item" type="button" onclick="getSite('St George West')">St George West</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Southmead')">Southmead</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Stockwood')">Stockwood</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Stoke Bishop')">Stoke Bishop</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Westbury-on-Trym & Henleaze')">Westbury-on-Trym & Henleaze</button>
+              <button class="dropdown-item" type="button" onclick="getSite('Windmill Hill')">Windmill Hill</button>
+            </div>
+          </div>
+
+
+          <!-- ReadME Button -->
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong" style="margin-right:15px">
+            ReadME
+          </button>
+
+          <!-- Modal -->
+          <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLongTitle">ReadME</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  This page is for the user who want to know the approximate distribution of different countries or power stations.<br/>
+                  Each dot on the map represents a power station. <br/>
+                  The table below is the total number of power stations and total power generation in each country.<br/>
+                  Put the mouse on the dot in the map to see the name and power generation capacity of the corresponding power station.<br/>
+                  The map can also be simply zoomed in and out with the mouse wheel.<br/>
+                  The components of this page is from bootstrap.<br/>
+                  All visual rendering and dynamic effects are achieved through d3.js.<br/>
+                  Here is the related links:<br/>
+                  <a href="https://d3js.org/">https://d3js.org/</a><br/>
+                  <a href="https://getbootstrap.com/">https://getbootstrap.com/</a><br/>
+                  <a href="https://d3js.org/world-110m.v1.json">https://d3js.org/world-110m.v1.json</a><br/>
+                  <a href="https://d3js.org/d3.v4.min.js">https://d3js.org/d3.v4.min.js</a><br/>
+                  <a href="https://d3js.org/topojson.v2.min.js">https://d3js.org/topojson.v2.min.js</a><br/>
+                  <a href="https://d3js.org/d3-color.v1.min.js">https://d3js.org/d3-color.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-dispatch.v1.min.js">https://d3js.org/d3-dispatch.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-ease.v1.min.js">https://d3js.org/d3-ease.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-interpolate.v1.min.js">https://d3js.org/d3-interpolate.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-selection.v1.min.js">https://d3js.org/d3-selection.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-timer.v1.min.js">https://d3js.org/d3-timer.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-transition.v1.min.js">https://d3js.org/d3-transition.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-drag.v1.min.js">https://d3js.org/d3-drag.v1.min.js</a><br/>
+                  <a href="https://d3js.org/d3-zoom.v1.min.js">https://d3js.org/d3-zoom.v1.min.js</a><br/>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </nav>
+    </header>
+      <select id="select_year" onchange="getYear()" name="select_year">
+        <option value="2010">2010</option>
+        <option value="2011">2011</option>
+        <option value="2012">2012</option>
+        <option value="2013">2013</option>
+        <option value="2014">2014</option>
+        <option value="2015">2015</option>
+        <option value="2016">2016</option>
+        <option value="2017">2017</option>
+      </select>
+      <select id="select_site" onchange="getSite(null)">
+        <option value="Ashley">Ashley</option>
+        <option value="Avonmouth & Lawrence Weston">Avonmouth & Lawrence Weston</option>
+        <option value="Bedminster">Bedminster</option>
+        <option value="Bishopston & Ashley Down">Bishopston & Ashley Down</option>
+        <option value="Bishopsworth">Bishopsworth</option>
+        <option value="Brislington East">Brislington East</option>
+        <option value="Brislington West">Brislington West</option>
+        <option value="Central">Central</option>
+        <option value="Clifton">Clifton</option>
+        <option value="Clifton Down">Clifton Down</option>
+        <option value="Cotham">Cotham</option>
+        <option value="Easton">Easton</option>
+        <option value="Eastville">Eastville</option>
+        <option value="Filwood">Filwood</option>
+        <option value="Frome Vale">Frome Vale</option>
+        <option value="Hartcliffe & Withywood">Hartcliffe & Withywood</option>
+        <option value="Henbury & Brentry">Henbury & Brentry</option>
+        <option value="Hengrove & Whitchurch Park">Hengrove & Whitchurch Park</option>
+        <option value="Hillfields">Hillfields</option>
+        <option value="Horfield">Horfield</option>
+        <option value="Hotwells & Harbourside">Hotwells & Harbourside</option>
+        <option value="Knowle">Knowle</option>
+        <option value="Lawrence Hill">Lawrence Hill</option>
+        <option value="Lockleaze">Lockleaze</option>
+        <option value="Redland">Redland</option>
+        <option value="Southville">Southville</option>
+        <option value="St George Central">St George Central</option>
+        <option value="St George Troopers Hill">St George Troopers Hill</option>
+        <option value="St George West">St George West</option>
+        <option value="Southmead">Southmead</option>
+        <option value="Stockwood">Stockwood</option>
+        <option value="Stoke Bishop">Stoke Bishop</option>
+        <option value="Westbury-on-Trym & Henleaze">Westbury-on-Trym & Henleaze</option>
+        <option value="Windmill Hill">Windmill Hill</option>
+      </select>
+      <div></div>
+
+        <script type="text/javascript">
+
+          function showMap(){
+          //Draw maps based on GeoJSON
+           d3.select('#map').remove();
+            var w = 1280;
+            var h = 720;
+            //Create SVG element
+            var svg_map = d3.select("body")
+                        .attr('id', 'map')
+                        .append("svg")
+                        .attr("width", w)
+                        .attr("height", h);
+            //Define map projection
+            var projection = d3.geoConicConformal()
+              .center([-2.6556278813, 51.4865158289])
+            	.scale(200000);
+
+
+            //Define path generator
+            var path = d3.geoPath()
+                             .projection(projection);
+            var path1 = d3.geoPath()
+                         .projection(projection);
+
+
+//            Load in GeoJSON data
+            // d3.json("population-estimates-2005-2016-2016-ward.geojson", function(json) {
+            //
+            //     //Bind data and create one path per GeoJSON feature
+            //     svg_map.selectAll("path")
+            //        .data(json.features)
+            //        .enter()
+            //        .append("path")
+            //        .attr("d", path)
+            //        .style("fill", "steelblue")
+            //        .style("opacity", 0.05);
+            //     //
+            //     // d3.csv('neighbourhood_planning_area.csv', function(error, dataset) {
+            //     //     var cols_names=Object.keys(dataset[0]);
+            //     //     var geo=cols_names[5];
+            //     //     for (var i = 0; i < dataset.length; i++) {
+            //     //     var latitude=parseFloat(dataset[i][geo].slice(0,dataset[i][geo].indexOf(",")));
+            //     //     var longtitude=parseFloat(dataset[i][geo].slice(dataset[i][geo].indexOf(",")+1,dataset[0][geo].length));
+            //     //     var geo_point=[longtitude,latitude]
+            //     //     var points=projection(geo_point);
+            //     //     console.log(points);
+            //     // svg.append("circle")
+            //     //   .attr("class","point")
+            //     //   .attr("cx",points[0])
+            //     //   .attr("cy",points[1])
+            //     //   .attr("r",8);
+            //     // }
+            //     //
+            //     // });
+            // });
+
+            d3.json("neighbourhood.geojson", function(json) {
+
+                //Bind data and create one path per GeoJSON feature
+                 svg_map.selectAll("path")
+                   .data(json.features)
+                   .enter()
+                   .append("path")
+                   .attr("d", path1)
+                   .style("fill", "red");
+                   d3.csv('population-estimates-2005-2016-2016-ward.csv', function(error, dataset) {
+                       var cols_names=Object.keys(dataset[0]);
+                       var geo=cols_names[4];
+                       var name=cols_names[0];
+                       var texts=svg_map.selectAll('.text')
+                                    .data(dataset)
+                                    .enter()
+                       var circles=svg_map.selectAll("circle")
+                                      .data(dataset).enter();
+                // for (var i = 0; i < 34; i++)
+                //     {
+                //        var latitude=parseFloat(dataset[i][geo].slice(0,dataset[i][geo].indexOf(",")));
+                //        var longtitude=parseFloat(dataset[i][geo].slice(dataset[i][geo].indexOf(",")+1,dataset[0][geo].length));
+                //        var geo_point=[longtitude,latitude]
+                //        var points=projection(geo_point);
+                //      }
+                   circles.append("circle")
+                     .attr("class","point")
+                     .attr("cx",function(d){return projection([parseFloat(d[geo].slice(d[geo].indexOf(",")+1,d[geo].length)),parseFloat(d[geo].slice(0,d[geo].indexOf(",")))])[0];})
+                     .attr("cy",function(d){return projection([parseFloat(d[geo].slice(d[geo].indexOf(",")+1,d[geo].length)),parseFloat(d[geo].slice(0,d[geo].indexOf(",")))])[1];})
+                     .attr("r",10)
+                     .on('mouseover',function(d){
+                       d3.select(this).attr('fill', 'yellow')
+                     } )
+                     .on('click', function(d){
+                       getSite(d[name]);
+                     })
+                     .on('mouseout', function(){
+                       d3.select(this).attr('fill', '#01ff07')
+                     });
+
+                  texts.append('text')
+                       .attr("x",function(d){return projection([parseFloat(d[geo].slice(d[geo].indexOf(",")+1,d[geo].length)),parseFloat(d[geo].slice(0,d[geo].indexOf(",")))])[0]-50;})
+                       .attr("y",function(d){return projection([parseFloat(d[geo].slice(d[geo].indexOf(",")+1,d[geo].length)),parseFloat(d[geo].slice(0,d[geo].indexOf(",")))])[1];})
+                       .text(function(d){
+                         return d[name];
+                       })
+                       .style("font-size","10px")
+
+
+                   });
+
+            });
+          }
+            var width=1200;
+            var height=600;
+            //set svg canvas
+            var svg_bar=d3.select('body')
+                          .append('svg')
+                          .attr('width', width)
+                          .attr('height', height)
+                          .append('g')
+                          .attr('transform', 'translate(' + 10 + ',' + 10 + ')');
+            var sited_names=["Bishopston & Ashley Down", "Brislington East", "Brislington West", "St George Central", "Knowle", "Southville", "Hartcliffe & Withywood", "Hengrove & Whitchurch Park", "Horfield", "Redland", "Westbury-on-Trym & Henleaze", "Bedminster", "Windmill Hill", "Central", "St George Troopers Hill", "Filwood", "Clifton Down", "Avonmouth & Lawrence Weston", "Bishopsworth", "Hillfields", "Lockleaze", "Stockwood", "Stoke Bishop", "Clifton", "Easton", "Eastville", "Hotwells & Harbourside", "Ashley", "Cotham", "Frome Vale", "Henbury & Brentry", "Lawrence Hill", "St George West", "Southmead"]
+            //set Y axis
+            var y=d3.scaleLinear()
+                    .domain([21220,0])
+                    .range([0,500]);
+            //set X axis
+            var x=d3.scaleBand()
+                    .domain(sited_names)
+                    .range([0,(sited_names.length-1)*(width/sited_names.length)]);
+            //set select function (draw bar chart based on year)
+            function getYear(year){
+              //remove bar chart and text
+              d3.selectAll("rect").remove();
+              svg_bar.selectAll('text').remove();
+              //get the year which is clicked
+              if (year==null) {
+                var selected_year=$('select option:selected').val();
+              }
+              else {
+                var selected_year=year;
+              }
+
+              //get dataset
+            d3.csv('population-estimates-2005-2016-2016-ward.csv', function(error, dataset) {
+
+                var cols_names=Object.keys(dataset[0]);
+                var estimate_number=cols_names[2]
+                var year=cols_names[1]
+                var name=cols_names[0]
+                var estimate=[];
+                var years=[];
+                var names=[];
+                //population data of different years
+                var population_2010=[];
+                var population_2011=[];
+                var population_2012=[];
+                var population_2013=[];
+                var population_2014=[];
+                var population_2015=[];
+                var population_2016=[];
+                var population_2017=[];
+                //site names of different years
+                var names_2010=[];
+                var names_2011=[];
+                var names_2012=[];
+                var names_2013=[];
+                var names_2014=[];
+                var names_2015=[];
+                var names_2016=[];
+                var names_2017=[];
+                //set the arrays
+                for (var i = 0; i < dataset.length; i++) {
+                  if (dataset[i][year]=="2010") {
+                    population_2010[i]=dataset[i][estimate_number]/50;
+                    names_2010[i]=dataset[i][name];
+                    continue;
+                  }
+                  if(dataset[i][year]=="2011"){
+                    population_2011[i-34]=dataset[i][estimate_number]/50;
+                    names_2011[i-34]=dataset[i][name];
+                    continue;
+                  }
+                  if(dataset[i][year]=="2012"){
+                    population_2012[i-68]=dataset[i][estimate_number]/50;
+                    names_2012[i-68]=dataset[i][name];
+                    continue;
+                  }
+                  if (dataset[i][year]=="2013") {
+                    population_2013[i-102]=dataset[i][estimate_number]/50;
+                    names_2013[i-102]=dataset[i][name];
+                    continue;
+                  }
+                  if (dataset[i][year]=="2014") {
+                    population_2014[i-136]=dataset[i][estimate_number]/50;
+                    names_2014[i-136]=dataset[i][name];
+                    continue;
+                  }
+                  if (dataset[i][year]=="2015") {
+                    population_2015[i-170]=dataset[i][estimate_number]/50;
+                    names_2015[i-170]=dataset[i][name];
+                    continue;
+                  }
+                  if (dataset[i][year]=="2016") {
+                    population_2016[i-204]=dataset[i][estimate_number]/50;
+                    names_2016[i-204]=dataset[i][name];
+                    continue;
+                  }
+                  if (dataset[i][year]=="2017") {
+                    population_2017[i-238]=dataset[i][estimate_number]/50;
+                    names_2017[i-238]=dataset[i][name];
+                    continue;
+                  }
+                }
+                //set dictonary for different years
+                var dict={'2010':population_2010,"2011":population_2011,"2012":population_2012,
+                          "2013":population_2013,"2014":population_2014,"2015":population_2015,
+                          "2016":population_2016,"2017":population_2017}
+                var name_dict={'2010':names_2010,"2011":names_2011,"2012":names_2012,
+                          "2013":names_2013,"2014":names_2014,"2015":names_2015,
+                          "2016":names_2016,"2017":names_2017}
+                //choose the year which is chosen
+                var selected=dict[selected_year];
+                var selected_name=name_dict[selected_year];
+
+                //draw bar chart
+                var bars=svg_bar.selectAll('.bar').data(selected).enter();
+                bars.append("rect")
+                    .attr('transform', 'translate(' + 55 + ',' + -100 + ')')
+                    .attr('class', 'bar')
+                    .attr('x', function(d,i){
+                      return i*(width/selected.length-1);
+                    })
+                    .attr('y', 0)
+                    .transition()
+                    .delay(function(d,i){
+                      return i*100;
+                    })
+                    .duration(1000)
+                    .ease(d3.easePolyInOut)
+                    .attr('y', function(d,i){
+                      return height-selected[i]*1.18;
+                    })
+                    .attr('width', 20)
+                    .attr('height', function(d,i){
+                      return selected[i]*1.18;
+                    })
+                    .attr('fill', '#7efbb3');
+              var text_length=0;
+              //set X axis
+               svg_bar.append('g')
+               .attr('transform', 'translate(' + 50 + ',' + (height-100) + ')')
+                      .call(d3.axisBottom(x).tickSize(0).tickFormat(function(d,i){
+                        return  selected_name[i];
+                      }))
+              .selectAll("text")
+              .attr('transform', 'translate(' + 50 + ',' + (height-100) + ')')
+              .attr('x', -100)
+              .attr('y', 0)
+              .style('font-weight', 'bold')
+              .attr("transform", "rotate(90)");
+              //set Y axis
+               svg_bar.append('g')
+                       .attr('transform', 'translate(' + 50 + ',' + (height-500-100) + ')')
+                      .call(d3.axisLeft(y));
+
+             svg_bar.append("g")
+                    .append("text")
+                    .attr('class', "MyText")
+                    .attr('x', width/2.5)
+                    .attr('y', height/20)
+                    .style('font-weight', 'bolder')
+                    .style('font-size', '30px')
+                    .text(selected_year+":All Site");
+            });
+          }
+
+
+          //draw bar chart based on site
+          function getSite(site){
+            d3.selectAll("rect").remove();
+            svg_bar.selectAll('text').remove();
+            if (site==null) {
+              var selected_site=$('#select_site').val();
+            }else {
+              var selected_site=site;
+            }
+
+            d3.csv('population-estimates-2005-2016-2016-ward.csv', function(error, dataset) {
+                var cols_names=Object.keys(dataset[0]);
+                var estimate_number=cols_names[2]
+                var year=cols_names[1]
+                var name=cols_names[0]
+                var sited_year={};
+                for (var i = 0; i < dataset.length; i++) {
+                  if (dataset[i][name]==selected_site) {
+                    sited_year[dataset[i][year]]=dataset[i][estimate_number]/50;
+                  }
+                }
+                var years_array=Object.keys(sited_year);
+                var number_array=Object.values(sited_year)
+                var bars=svg_bar.selectAll('.bar').data(number_array).enter();
+                bars.append("rect")
+                    .attr('transform', 'translate(' + 55 + ',' + -100 + ')')
+                    .attr('class', 'bar')
+                    .attr('x', function(d,i){
+                      return i*(width/number_array.length);
+                    })
+                    .attr('y', 0)
+                    .transition()
+                    .delay(function(d,i){
+                      return i*100;
+                    })
+                    .duration(1000)
+                    .ease(d3.easePolyInOut)
+                    .attr('y', function(d,i){
+                      return height-number_array[i]*1.18;
+                    })
+                    .attr('width', 50)
+                    .attr('height', function(d,i){
+                      return number_array[i]*1.18;
+                    })
+                    .attr('fill', '#7efbb3');
+                    var x1=d3.scaleBand()
+                            .domain(years_array)
+                            .range([0,width]);
+                svg_bar.append('g')
+                    .attr('transform', 'translate(' + 50 + ',' + (height-100) + ')')
+                           .call(d3.axisBottom(x1).tickSize(0).tickFormat(function(d,i){
+                             return  years_array[i];
+                           }))
+                   .selectAll("text")
+                   .attr('transform', 'translate(' + 50 + ',' + (height-100) + ')')
+                   .attr('x', -100)
+                   .attr('y', 50)
+                   .style('font-weight', 'bold')
+                   .style('font-size',"20px")
+                   .attr("transform", "rotate(90)");
+                   //set Y axis
+                svg_bar.append('g')
+                            .attr('transform', 'translate(' + 50 + ',' + (height-500-100) + ')')
+                           .call(d3.axisLeft(y));
+
+                svg_bar.append("g")
+                       .append("text")
+                       .attr('class', "MyText")
+                       .attr('x', width/2.5)
+                       .attr('y', height/20)
+                       .style('font-weight', 'bolder')
+                       .style('font-size', '30px')
+                       .text(selected_site+":All Years");
+            });
+          }
+        </script>
+        <!---Bootstrap Core Javascript--->
+        <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+        <script type="text/javascript" src="js/popper.js"></script>
+        <script type="text/javascript" src="bootstrap-4.0.0-dist/js/bootstrap.js"></script>
+    </body>
+</html>

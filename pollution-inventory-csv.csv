@@ -1,0 +1,835 @@
+OPERATOR NAME,SITE ADDRESS,SITE POSTCODE,LAT,LONG,EA AREA NAME,ROUTE NAME,SUBSTANCE NAME,REPORTING THRESHOLD,QUANTITY RELEASED,REGULATED INDUSTRY SECTOR,REGULATED INDUSTRY SUB - SECTOR,YEAR
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Trichloroethylene,1000,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,"Benzo(g,h,i)perylene",0,0.98,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Methane,10000,78000,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Nitrous oxide,10000,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Dichloromethane (DCM) (Methylene chloride),1000,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Carbon tetrachloride (Tetrachloromethane),1,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Lead,20,88,Water Industry,Water Industry,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,49730,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Mercury,0,0.406,Combustion,Power,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Lead,20,,Waste Treatment,Hazardous,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Mercury,1,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,EfW,EfW,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Methane,10000,21000,Combustion,Power,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Combustion,Power,2017
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Copper,20,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Chlorides - as Cl,2000000,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Chloroform (Trichloromethane),5,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Air,Carbon dioxide,10000000,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Cyanides - as CN,50,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Phenols - total as C,20,,Water Industry,Water Industry,2017
+Andersons Waste Treatment Centre Limited,Site 6 Hydro Estate St. Andrews Road Avonmouth Avon,BS11 9HS,51.5080483334,-2.694602846,Wessex,Air,Ammonia,1000,,Waste Treatment,Non Hazardous,2017
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Carbon dioxide,10000000,,Food & Drink,Food & Drink,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Lead,100,,EfW,EfW,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Anthracene,0,0.49,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Benzo(b)fluoranthene,1,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Fluorides - as F,2000,2890,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Cadmium,1,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Polychlorinated biphenyls (PCBs) - as WHO TEQ,0,,EfW,EfW,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Chlorides - as Cl,2000000,,Landfill,Non Hazardous Landfill,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Mercury,0,,Metals,Surface treatment,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Particulate matter - total,10000,10555,Cement and Minerals,Minerals,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Nitrous oxide,10000,,Cement and Minerals,Minerals,2017
+Tulip Ltd,Tulip Fresh Meats Ltd Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Particulate matter - PM10,1000,,Food & Drink,Food & Drink,2017
+Tulip Ltd,Tulip Fresh Meats Ltd Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Wastewater,Chlorides - as Cl,2000000,,Food & Drink,Food & Drink,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Carbon dioxide,10000000,,Metals,Surface treatment,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,"Benzo(g,h,i)perylene",0,1.01,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Asbestos,0,1.03,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Diuron,0,1.61,Water Industry,Water Industry,2016
+Andersons Waste Treatment Centre Limited,Unit 6 Hydro Estate St Andrews Road Avonmouth Avon,BS11 9HS,51.5080483334,-2.694602846,Wessex,Wastewater,Zinc,100,4.9,Waste treatment,Non Hazardous,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Cadmium,1,7.67,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Cyanides - as CN,50,115,Water Industry,Water Industry,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,277.37,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,1015.8,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Ammonia,1000,1034.6,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Carbon monoxide,100000,1182.6,Combustion,EfW,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,29100,Combustion,Power,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Nitrogen - as total N,50000,268000,Water Industry,Water Industry,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Carbon dioxide,10000000,65182000,Cement and Minerals,Minerals,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Carbon dioxide,10000000,31149358,Combustion,EfW,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Carbon monoxide,100000,,Landfill,Non Hazardous Landfill,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Lead,20,,Landfill,Non Hazardous Landfill,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Copper,20,,Waste treatment,Hazardous,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Wastewater,Chromium,20,,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Wastewater,Lead,20,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrous oxide,10000,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Polychlorinated biphenyls (PCBs),0,,Combustion,EfW,2016
+Tulip Ltd,Tulip Fresh Meats Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Food & Drink,Food & Drink,2016
+Tulip Ltd,Tulip Fresh Meats Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Carbon dioxide,10000000,,Food & Drink,Food & Drink,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,"Ethylene dichloride (1,2-Dichloroethane)",10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Toluene,10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Carbon monoxide,100000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Tetrachloroethane (1,1,2,2-Tetrachloroethane)",10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Benzo(a)pyrene,1,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Naphthalene,100,,Water Industry,Water Industry,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Particulate matter - total,10000,,Cement and Minerals,Minerals,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Combustion,EfW,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Cadmium,1,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Carbon dioxide,10000000,,Metals,Surface treatment,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Benzo(b)fluoranthene,1,,Combustion,EfW,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Lead,20,,Water Industry,Water Industry,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Ammonia,1000,,Chemicals,Chemicals,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Carbon monoxide,100000,,Chemicals,Chemicals,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Methane,10000,,Chemicals,Chemicals,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Benzo(a)pyrene,1,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Benzo(k)fluoranthene,1,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Ammonia,1000,,Combustion,Power,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Total organic carbon (TOC),50000,,Combustion,Power,2016
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Air,Benzene,1000,,Waste treatment,Hazardous,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Total organic carbon (TOC),50000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Methane,10000,298000,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Benzo(k)fluoranthene,1,1.35,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Octylphenols and octylphenol ethoxylates,1,1.25,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Chloroform (Trichloromethane),5,103,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Nickel,20,560,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Fluorides - as F,2000,17800,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,0.000164,Water Industry,Water Industry,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Chemicals,Chemicals,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Waste Treatment,Hazardous,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Waste Treatment,Hazardous,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Ammonia,1000,,EfW,EfW,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Particulate matter - PM2.5,1000,,Combustion,Power,2017
+Yeo Valley Farms (Production) Ltd,Lag Farm Dairy Bath Road Blagdon Avon,BS40 7SG,51.3247798511,-2.69713881308,Wessex,Controlled Waters,Mercury,0,,Food & Drink,Food & Drink,2017
+Yeo Valley Farms (Production) Ltd,Lag Farm Dairy Bath Road Blagdon Avon,BS40 7SG,51.3247798511,-2.69713881308,Wessex,Air,Hydrofluorocarbons (HFCs),100,313,Food & Drink,Food & Drink,2017
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Air,Carbon dioxide,10000000,11300000,Landfill,Non Hazardous Landfill,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Air,Methane,10000,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,"Indeno(1,2,3-cd)pyrene",1,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Fluorides - as F,2000,2710,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Organotin compounds - as Sn,5,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Lead,20,,Water Industry,Water Industry,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Cadmium,1,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Polychlorinated biphenyls (PCBs) - as WHO TEQ,0,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Arsenic,1,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Copper,10,,EfW,EfW,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,"Benzo(g,h,i)perylene",0,0.16,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Benzo(a)pyrene,1,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Chloroform (Trichloromethane),100,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Nickel,20,48,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Nitrogen - as total N,50000,268000,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Cadmium,1,1.2,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Atrazine,0,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Chlorides - as Cl,2000000,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Asbestos,0,1.02,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Benzo(b)fluoranthene,1,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Carbon dioxide,10000000,,EfW,EfW,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Arsenic,5,,Landfill,Non Hazardous Landfill,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Cadmium,1,,Landfill,Non Hazardous Landfill,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Nickel,20,,Metals,Surface treatment,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Methane,10000,,Cement and Minerals,Minerals,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Carbon dioxide,10000000,66826000,Cement and Minerals,Minerals,2017
+Hanson Aggregates - South West,Chipping Sodbury Wickwar Road Chipping Sodbury BRISTOL,BS37 6AY,51.5479103342,-2.39941966764,Wessex,Air,Particulate matter - PM10,50000,,No Far Sector,No Far Sector,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,0.000164,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Tributyltin and compounds - as TBT,0,0.0557,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Mercury,0,0.31,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Benzo(a)pyrene,1,2.85,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Asbestos,0,6.51,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Di(2-ethylhexyl)phthalate (DEHP),0,23.8,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Nonylphenols and nonylphenol ethoxylates,1,32.8,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Di(2-ethylhexyl)phthalate (DEHP),0,150,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Zinc,100,346,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Halogenated organic compounds - as AOX,1000,1380,Water Industry,Water Industry,2016
+Lukins and Son,Townsend Farm Prowses Lane Townsend Somerset,BS26 2AJ,51.2884224665,-2.82608209035,Wessex,Air,Particulate matter - PM10,1000,3400,Agriculture,Intensive Farming,2016
+Alvis Bros Ltd,Lyehole Piggery Lyehole Lane Redhill Avon,BS40 5RJ,51.3539146804,-2.7265902055,Wessex,Air,Ammonia,1000,7805.83,Agriculture,Intensive Farming,2016
+Tulip Ltd,Tulip Fresh Meats Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Wastewater,Total organic carbon (TOC),50000,84200,Food & Drink,Food & Drink,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Total organic carbon (TOC),50000,151622,Waste treatment,Hazardous,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Phosphorus - as total P,5000,262000,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Nitrogen - as total N,50000,1690000,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon dioxide,10000000,1529290000,Combustion,Power,2016
+CEMEX UK Materials Ltd,Freemans Farm Quarry Barrow Gurney Bristol,BS40 9XB,51.3963476058,-2.69851424936,Wessex,Air,Particulate matter - PM10,50000,,No Far Sector,No Far Sector,2016
+Stratton; Stratton; Stratton,Manor Farm Poultry Unit Near Middlepiece Lane Keynsham Avon,BS31 2TF,51.3848405519,-2.48421923553,Wessex,Air,Particulate matter - PM10,1000,,Agriculture,Intensive Farming,2016
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Carbon monoxide,100000,,Combustion,Power,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Ammonia,1000,,Metals,Surface treatment,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Particulate matter - PM10,1000,,Waste treatment,Hazardous,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Wastewater,Fluorides - as F,2000,,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Mercury,1,,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Wastewater,Copper,20,,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Benzo(a)pyrene,1,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Ammonia,1000,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,Combustion,EfW,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Nickel,20,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Benzene,1000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Methyl chloroform (1,1,1-Trichloroethane)",10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Copper,20,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Carbon tetrachloride (Tetrachloromethane),10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Particulate matter - PM10,1000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Landfill,Non Hazardous Landfill,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Methane,10000,,Cement and Minerals,Minerals,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Cement and Minerals,Minerals,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Combustion,EfW,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Chromium,10,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Lead,100,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Particulate matter - PM2.5,1000,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Particulate matter - total,10000,,Metals,Surface treatment,2016
+Suez Recycling And Recovery Uk Ltd,Avonmouth Resource Park Merebank Road Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Nickel,20,,Combustion,EfW,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Mercury,0,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Chlorides - as Cl,2000000,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Benzo(b)fluoranthene,1,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Ammonia,1000,,Water Industry,Water Industry,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Chloroform (Trichloromethane),5,,Chemicals,Chemicals,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Lead,20,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Air,Ammonia,1000,,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Sulphur hexafluoride,10,,Combustion,Power,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Hydrochlorofluorocarbons (HCFCs),1,,Combustion,Power,2016
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Nickel,20,,Waste treatment,Hazardous,2016
+CEMEX UK Materials Ltd,Freemans Farm Quarry Barrow Gurney Bristol,BS40 9XB,51.3963476058,-2.69851424936,Wessex,Air,Particulate matter - PM10,50000,,No Far Sector,No Far Sector,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Particulate matter - PM10,1000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Ethylene dichloride (1,2-Dichloroethane)",1000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Chlorides - as Cl,2000000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Tetrachloroethylene (PER),100,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Anthracene,0,3.02,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Fluoranthene,0,0.63,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Tributyltin and compounds - as TBT,0,0.0557,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Mercury,0,2.05,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,14.2,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Nitrogen - as total N,50000,1690000,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Organotin compounds - as Sn,5,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Copper,20,305,Water Industry,Water Industry,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Ammonia,1000,,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrous oxide,10000,27630,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,1073800,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Chlorides - as Cl,2000000,,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Nitrogen - as total N,50000,,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Phosphorus - as total P,5000,75820,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Total organic carbon (TOC),50000,,Combustion,Power,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Carbon dioxide,10000000,14200000,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Phosphorus - as total P,5000,,Chemicals,Chemicals,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Chromium,20,,Waste Treatment,Hazardous,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Phenols - total as C,20,55,Waste Treatment,Hazardous,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Anthracene,10,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Particulate matter - PM10,1000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Polychlorinated biphenyls (PCBs) - as WHO TEQ,0,0.00299,EfW,EfW,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Particulate matter - PM10,1000,,Combustion,Power,2017
+Yeo Valley Farms (Production) Ltd,Lag Farm Dairy Bath Road Blagdon Avon,BS40 7SG,51.3247798511,-2.69713881308,Wessex,Controlled Waters,Cadmium,1,,Food & Drink,Food & Drink,2017
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Zinc,100,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Benzo(b)fluoranthene,1,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Octylphenols and octylphenol ethoxylates,1,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Cadmium,1,1.35,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Water Industry,Water Industry,2017
+Andersons Waste Treatment Centre Limited,Site 6 Hydro Estate St. Andrews Road Avonmouth Avon,BS11 9HS,51.5080483334,-2.694602846,Wessex,Wastewater,Zinc,100,3.9,Waste Treatment,Non Hazardous,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Particulate matter - PM10,1000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Zinc,100,,EfW,EfW,2017
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Zinc,100,,Waste Treatment,Hazardous,2017
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Air,Benzene,1000,,Waste Treatment,Hazardous,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Cadmium,1,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Particulate matter - total,10000,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Benzo(b)fluoranthene,1,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Carbon dioxide,10000000,,EfW,EfW,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,"Indeno(1,2,3-cd)pyrene",1,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Mercury,0,1.2,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Carbon dioxide,10000000,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Cyanides - as CN,50,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Nickel,10,,EfW,EfW,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Landfill,Non Hazardous Landfill,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,Metals,Surface treatment,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Air,Chromium,10,,Metals,Surface treatment,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Carbon monoxide,100000,,Cement and Minerals,Minerals,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Particulate matter - PM10,1000,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Particulate matter - PM2.5,1000,,Metals,Surface treatment,2017
+Lukins and Son,Townsend Farm Prowses Lane Townsend Somerset,BS26 2AJ,51.2884224665,-2.82608209035,Wessex,Air,Ammonia,1000,5100,Agriculture,Intensive Farming,2017
+Alvis Bros Ltd,Lyehole Piggery Lyehole Lane Redhill Avon,BS40 5RJ,51.3539146804,-2.7265902055,Wessex,Air,Ammonia,1000,6311.32,Agriculture,Intensive Farming,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Tributyltin and compounds - as TBT,0,0.00883,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Anthracene,0,0.45,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Fluoranthene,0,0.65,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Octylphenols and octylphenol ethoxylates,1,1.3,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Di(2-ethylhexyl)phthalate (DEHP),0,21.6,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Nonylphenols and nonylphenol ethoxylates,1,29.8,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Arsenic,5,31.5,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Copper,20,104,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Zinc,100,253,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Fluorides - as F,2000,2650,Water Industry,Water Industry,2016
+Stratton; Stratton; Stratton,Manor Farm Poultry Unit Near Middlepiece Lane Keynsham Avon,BS31 2TF,51.3848405519,-2.48421923553,Wessex,Air,Ammonia,1000,6800,Agriculture,Intensive Farming,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrous oxide,10000,16170,Combustion,Power,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Total organic carbon (TOC),50000,1650000,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Chlorides - as Cl,2000000,16300000,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Carbon dioxide,10000000,50000000,Water Industry,Water Industry,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Methane,10000,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Trichlorobenzene - all isomers,1,,Landfill,Non Hazardous Landfill,2016
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Combustion,Power,2016
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Methane,10000,,Combustion,Power,2016
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Combustion,Power,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Particulate matter - PM2.5,1000,,Metals,Surface treatment,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Wastewater,Chromium,20,,Metals,Surface treatment,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Metals,Surface treatment,2016
+Yeo Valley Farms (Production) Ltd,Lag Farm Dairy Bath Road Blagdon Avon,BS40 7SG,51.3247798511,-2.69713881308,Wessex,Controlled Waters,Mercury,0,,Food & Drink,Food & Drink,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Lead,20,,Waste treatment,Hazardous,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Waste treatment,Hazardous,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Nickel,20,,Waste treatment,Hazardous,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Naphthalene,100,,Combustion,EfW,2016
+Tulip Ltd,Tulip Fresh Meats Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Particulate matter - total,10000,,Food & Drink,Food & Drink,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Chlorides - as Cl,2000000,,Landfill,Non Hazardous Landfill,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Anthracene,10,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Arsenic,1,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Polychlorinated biphenyls (PCBs) - as WHO TEQ,0,,Combustion,EfW,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Wastewater,Zinc,100,,Metals,Surface treatment,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Ethyl benzene,10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Xylene - all isomers,10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Nickel,20,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Carbon dioxide,10000000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Asbestos,0,6.29,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Chromium,20,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,0.000164,Water Industry,Water Industry,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Cadmium,1,,Combustion,Power,2017
+Stratton; Stratton; Stratton,Manor Farm Poultry Unit Near Middlepiece Lane Keynsham Avon,BS31 2TF,51.3848405519,-2.48421923553,Wessex,Air,Particulate matter - PM10,1000,,Agriculture,Intensive Farming,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Chloroform (Trichloromethane),5,,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Ammonia,1000,,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Carbon monoxide,100000,,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Total organic carbon (TOC),50000,,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Particulate matter - total,10000,,Chemicals,Chemicals,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Zinc,100,,Waste Treatment,Hazardous,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Total organic carbon (TOC),50000,115584,Waste Treatment,Hazardous,2017
+P.D. Hook (Breeders) Limited,Power Station Farm Near Shepperdine Road Oldbury On Severn Avon,BS35 1RQ,51.6407776969,-2.55775319364,Wessex,Air,Particulate matter - PM10,1000,1938,Agriculture,Intensive Farming,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Cadmium,1,,EfW,EfW,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Combustion,Power,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Carbon dioxide,10000000,,Combustion,Power,2017
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Nickel,20,,Landfill,Non Hazardous Landfill,2017
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Chromium,20,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Fluoranthene,0,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Benzo(k)fluoranthene,1,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Diuron,0,1.09,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Phosphorus - as total P,5000,38500,Water Industry,Water Industry,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Naphthalene,100,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Benzo(b)fluoranthene,1,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Halogenated organic compounds - as AOX,1000,,EfW,EfW,2017
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Copper,20,,Waste Treatment,Hazardous,2017
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Food & Drink,Food & Drink,2017
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Carbon monoxide,100000,,Food & Drink,Food & Drink,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Benzo(a)pyrene,1,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Naphthalene,100,,EfW,EfW,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Octylphenols and octylphenol ethoxylates,1,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Halogenated organic compounds - as AOX,1000,1370,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Total organic carbon (TOC),50000,178000,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Arsenic,5,5.14,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Lead,20,,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Benzo(a)pyrene,1,,EfW,EfW,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Chromium,20,,Landfill,Non Hazardous Landfill,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Mercury,0,,Landfill,Non Hazardous Landfill,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Copper,20,,Metals,Surface treatment,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Lead,20,,Metals,Surface treatment,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Cement and Minerals,Minerals,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,295146,Cement and Minerals,Minerals,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Mercury,1,,Cement and Minerals,Minerals,2017
+Tulip Ltd,Tulip Fresh Meats Ltd Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Food & Drink,Food & Drink,2017
+Alvis Bros Ltd,Lyehole Piggery Lyehole Lane Redhill Avon,BS40 5RJ,51.3539146804,-2.7265902055,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Agriculture,Intensive Farming,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,"Benzo(g,h,i)perylene",0,0.15,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,"Benzo(g,h,i)perylene",0,0.16,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Mercury,0,0.34,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Anthracene,0,0.5,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Asbestos,0,0.94,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Lead,20,88,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Nickel,20,594,Water Industry,Water Industry,2016
+P D Hook (Rearing),Jobes Green Farm Shepperdine Bristol Avon,BS35 1DL,51.6518243293,-2.56049062093,Wessex,Air,Particulate matter - PM10,1000,3166,Agriculture,Intensive Farming,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Methane,10000,119640,Combustion,Power,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Methane,10000,383000,Landfill,Non Hazardous Landfill,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Carbon dioxide,10000000,17200000,Chemicals,Chemicals,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Benzene,1000,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Tetrachloroethylene (PER),100,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,"Methyl chloroform (1,1,1-Trichloroethane)",10,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Vinyl chloride,1000,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Dichloromethane (DCM) (Methylene chloride),1000,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Chloroform (Trichloromethane),100,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Controlled Waters,Arsenic,5,,Landfill,Non Hazardous Landfill,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Wastewater,Chlorides - as Cl,2000000,,Metals,Surface treatment,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Particulate matter - PM10,1000,,Metals,Surface treatment,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Nickel,10,,Metals,Surface treatment,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Nickel,20,,Landfill,Non Hazardous Landfill,2016
+Yeo Valley Farms (Production) Ltd,Lag Farm Dairy Bath Road Blagdon Avon,BS40 7SG,51.3247798511,-2.69713881308,Wessex,Controlled Waters,Cadmium,1,,Food & Drink,Food & Drink,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Wastewater,Zinc,100,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Polychlorinated biphenyls (PCBs) - as WHO TEQ,0,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Particulate matter - total,10000,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,Combustion,EfW,2016
+Tulip Ltd,Tulip Fresh Meats Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Wastewater,Chlorides - as Cl,2000000,,Food & Drink,Food & Drink,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Xylene - all isomers,10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Ethylene dichloride (1,2-Dichloroethane)",1000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Zinc,100,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Carbon dioxide,10000000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Butadiene (1,3-Butadiene)",100,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Nitrous oxide,10000,,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Chloroform (Trichloromethane),100,,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Carbon tetrachloride (Tetrachloromethane),1,,Water Industry,Water Industry,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Controlled Waters,Total organic carbon (TOC),50000,,Cement and Minerals,Minerals,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Mercury,1,,Cement and Minerals,Minerals,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Combustion,EfW,2016
+Andersons Waste Treatment Centre Limited,Unit 6 Hydro Estate St Andrews Road Avonmouth Avon,BS11 9HS,51.5080483334,-2.694602846,Wessex,Air,Carbon dioxide,10000000,,Waste treatment,Non Hazardous,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Arsenic,1,,Metals,Surface treatment,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Chromium,20,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Hexachlorocyclohexane (HCH) -all isomers,1,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Chlorofluorocarbons (CFCs),1,5.18,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Benzo(a)pyrene,1,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Zinc,100,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Carbon monoxide,100000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Tetrachloroethane (1,1,2,2-Tetrachloroethane)",10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Perfluorocarbons (PFCs),10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Benzene,1000,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,"Indeno(1,2,3-cd)pyrene",1,3.56,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Benzo(b)fluoranthene,1,1.69,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Naphthalene,1,83.2,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Di(2-ethylhexyl)phthalate (DEHP),0,145,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Diuron,0,7.1,Water Industry,Water Industry,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Hydrochlorofluorocarbons (HCFCs),1,,Combustion,Power,2017
+Phillips; Phillips,Mudgley Lodge Farm Mudgley Road Rooksbridge Axbridge Somerset,BS26 2TL,51.259513636,-2.91656876967,Wessex,Air,Methane,10000,,Agriculture,Intensive Farming,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Chemicals,Chemicals,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Waste Treatment,Hazardous,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon monoxide,100000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrous oxide,10000,13524,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,EfW,EfW,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Combustion,Power,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Particulate matter - total,10000,,Combustion,Power,2017
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Air,Methane,10000,334000,Landfill,Non Hazardous Landfill,2017
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Lead,20,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,"Brominated diphenylethers - penta-, octa- and deca- BDE",0,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Anthracene,0,0.46,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,"Benzo(g,h,i)perylene",0,0.15,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Benzo(a)pyrene,1,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Mercury,0,0.31,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Halogenated organic compounds - as AOX,1000,1290,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Arsenic,5,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Copper,20,30.2,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Air,Ammonia,1000,,Water Industry,Water Industry,2017
+Andersons Waste Treatment Centre Limited,Site 6 Hydro Estate St. Andrews Road Avonmouth Avon,BS11 9HS,51.5080483334,-2.694602846,Wessex,Air,Carbon dioxide,10000000,,Waste Treatment,Non Hazardous,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Carbon monoxide,100000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Nickel,20,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Chromium,10,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,EfW,EfW,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Fluoranthene,0,0.1,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Nonylphenols and nonylphenol ethoxylates,1,32.6,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Tributyltin and compounds - as TBT,0,0.00883,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Di(2-ethylhexyl)phthalate (DEHP),0,23.6,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Diuron,0,1.52,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Phenols - total as C,20,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,"Brominated diphenylethers - penta-, octa- and deca- BDE",0,,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Chromium,10,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Copper,10,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,EfW,EfW,2017
+P D Hook (Rearing),Jobes Green Farm Shepperdine Bristol Avon,BS35 1DL,51.6518243293,-2.56049062093,Wessex,Air,Ammonia,1000,3613,Agriculture,Intensive Farming,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Zinc,100,,Metals,Surface treatment,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Total organic carbon (TOC),50000,,Metals,Surface treatment,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Controlled Waters,Total organic carbon (TOC),50000,,Cement and Minerals,Minerals,2017
+Tulip Ltd,Tulip Fresh Meats Ltd Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Wastewater,Total organic carbon (TOC),50000,114000,Food & Drink,Food & Drink,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Ammonia,1000,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Carbon monoxide,100000,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Nitrous oxide,10000,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Wastewater,Chromium,20,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Wastewater,Nickel,20,,Metals,Surface treatment,2017
+Lukins and Son,Townsend Farm Prowses Lane Townsend Somerset,BS26 2AJ,51.2884224665,-2.82608209035,Wessex,Air,Particulate matter - PM10,1000,3400,Agriculture,Intensive Farming,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,"Brominated diphenylethers - penta-, octa- and deca- BDE",0,0.14,Water Industry,Water Industry,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Mercury,1,1.03,Combustion,EfW,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Cadmium,1,1.32,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Mercury,0,2.12,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Arsenic,5,5.14,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Diuron,0,7.41,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Naphthalene,1,12.4,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Naphthalene,1,13.6,Water Industry,Water Industry,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Phenols - total as C,20,42,Waste treatment,Hazardous,2016
+Suez Recycling And Recovery Uk Ltd,Avonmouth Resource Park Merebank Road Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,42,Combustion,EfW,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Nickel,20,45.4,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Naphthalene,1,86.1,Water Industry,Water Industry,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Hydrofluorocarbons (HFCs),100,192,Chemicals,Chemicals,2016
+P D Hook (Rearing),Jobes Green Farm Shepperdine Bristol Avon,BS35 1DL,51.6518243293,-2.56049062093,Wessex,Air,Ammonia,1000,3704,Agriculture,Intensive Farming,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Zinc,100,3900,Water Industry,Water Industry,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,4622.6,Combustion,EfW,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Halogenated organic compounds - as AOX,1000,8730,Water Industry,Water Industry,2016
+Alvis Bros Ltd,Lyehole Piggery Lyehole Lane Redhill Avon,BS40 5RJ,51.3539146804,-2.7265902055,Wessex,Air,Methane,10000,17366.63,Agriculture,Intensive Farming,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Fluorides - as F,2000,18400,Water Industry,Water Industry,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,23582.18,Combustion,EfW,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Total organic carbon (TOC),50000,178000,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Nitrogen - as total N,50000,243000,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,843600,Combustion,Power,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,"Ethylene dichloride (1,2-Dichloroethane)",1000,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Controlled Waters,Zinc,100,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Carbon dioxide,10000000,,Landfill,Non Hazardous Landfill,2016
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Carbon dioxide,10000000,,Combustion,Power,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Chromium,20,,Landfill,Non Hazardous Landfill,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Copper,20,,Landfill,Non Hazardous Landfill,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Wastewater,Arsenic,5,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Combustion,EfW,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Trichloroethylene,1000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Vinyl chloride,1000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Chromium,20,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Chloroform (Trichloromethane),100,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Carbon tetrachloride (Tetrachloromethane),10,,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Dichloromethane (DCM) (Methylene chloride),1000,,Water Industry,Water Industry,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Arsenic,5,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Benzene,10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,"Ethylene dichloride (1,2-Dichloroethane)",10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Butadiene (1,3-Butadiene)",100,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,"Brominated diphenylethers - penta-, octa- and deca- BDE",0,0.13,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Chloroform (Trichloromethane),100,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Zinc,100,3170,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Phenols - total as C,20,26.8,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Total organic carbon (TOC),50000,1650000,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Arsenic,5,30.2,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Ammonia,1000,2500,Water Industry,Water Industry,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon monoxide,100000,1103100,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Sulphur hexafluoride,10,,Combustion,Power,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon dioxide,10000000,2021730000,Combustion,Power,2017
+Phillips; Phillips,Mudgley Lodge Farm Mudgley Road Rooksbridge Axbridge Somerset,BS26 2TL,51.259513636,-2.91656876967,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Agriculture,Intensive Farming,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Copper,20,,Waste Treatment,Hazardous,2017
+P.D. Hook (Breeders) Limited,Power Station Farm Near Shepperdine Road Oldbury On Severn Avon,BS35 1RQ,51.6407776969,-2.55775319364,Wessex,Air,Ammonia,1000,16857,Agriculture,Intensive Farming,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,EfW,EfW,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Nitrous oxide,10000,,Combustion,Power,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Naphthalene,1,12.7,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Nickel,20,110,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Zinc,100,295,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Di(2-ethylhexyl)phthalate (DEHP),0,22.1,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Nitrogen - as total N,50000,250000,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Total organic carbon (TOC),50000,132000,Water Industry,Water Industry,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Anthracene,10,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,EfW,EfW,2017
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Cadmium,1,,Waste Treatment,Hazardous,2017
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Waste Treatment,Hazardous,2017
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Nickel,20,,Waste Treatment,Hazardous,2017
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Food & Drink,Food & Drink,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Carbon monoxide,100000,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Mercury,1,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Nickel,10,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Zinc,100,,EfW,EfW,2017
+New Earth Solutions (West) Limited,Avonmouth MBT Kings Weston Lane Avonmouth Bristol Avon,BS11 9FG,51.5105921253,-2.69017461962,Wessex,Air,Carbon dioxide,10000000,,Biowaste,Biowaste Treatment,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Benzo(k)fluoranthene,1,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Naphthalene,1,13.6,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Lead,100,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,EfW,EfW,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Lead,20,,Landfill,Non Hazardous Landfill,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Nickel,20,,Landfill,Non Hazardous Landfill,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Cadmium,1,,Metals,Surface treatment,2017
+GKN AEROSPACE SERVICES LTD,PO Box 500 Golf Course Lane Filton,BS34 9AU,51.5095570245,-2.58280638056,Wessex,Wastewater,Chromium,20,,Metals,Surface treatment,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Cement and Minerals,Minerals,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Wastewater,Total organic carbon (TOC),50000,,Cement and Minerals,Minerals,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Chromium,10,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Nickel,10,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Metals,Surface treatment,2017
+Praxair Surface Technologies Limited,Praxair Surface Technologies Oldmixon Crescent Oldmixon Industrial Estate Weston-super-Mare,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Wastewater,Chlorides - as Cl,2000000,,Metals,Surface treatment,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Tributyltin and compounds - as TBT,0,0.00803,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Diuron,0,1.12,Water Industry,Water Industry,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Hydrochlorofluorocarbons (HCFCs),1,1.34,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Benzo(k)fluoranthene,1,1.4,Water Industry,Water Industry,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Benzo(b)fluoranthene,1,5.12,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Benzo(k)fluoranthene,1,5.12,Combustion,EfW,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Chromium,20,29.3,Metals,Surface treatment,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Nickel,20,99.1,Water Industry,Water Industry,2016
+Yeo Valley Farms (Production) Ltd,Lag Farm Dairy Bath Road Blagdon Avon,BS40 7SG,51.3247798511,-2.69713881308,Wessex,Air,Hydrofluorocarbons (HFCs),100,313,Food & Drink,Food & Drink,2016
+P.D. Hook (Breeders) Limited,Power Station Farm Near Shepperdine Road Oldbury On Severn Avon,BS35 1RQ,51.6407776969,-2.55775319364,Wessex,Air,Particulate matter - PM10,1000,2061,Agriculture,Intensive Farming,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Phosphorus - as total P,5000,9230,Water Industry,Water Industry,2016
+P.D. Hook (Breeders) Limited,Power Station Farm Near Shepperdine Road Oldbury On Severn Avon,BS35 1RQ,51.6407776969,-2.55775319364,Wessex,Air,Ammonia,1000,17931,Agriculture,Intensive Farming,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Phosphorus - as total P,5000,40400,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Phosphorus - as total P,5000,55350,Combustion,Power,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Methane,10000,78000,Water Industry,Water Industry,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Air,Methane,10000,298000,Landfill,Non Hazardous Landfill,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Air,Carbon Dioxide From Qualifying Renewable Fuel Sources,0,11500000,Landfill,Non Hazardous Landfill,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon dioxide,10000000,88841368,Combustion,EfW,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Trichloroethylene,1000,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Hydrochlorofluorocarbons (HCFCs),1,,Landfill,Non Hazardous Landfill,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Wastewater,Nickel,20,,Metals,Surface treatment,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Zinc,100,,Waste treatment,Hazardous,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Wastewater,Nickel,20,,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,Combustion,EfW,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon monoxide,100000,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Combustion,EfW,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Total organic carbon (TOC),50000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Arsenic,5,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Ethyl benzene,10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Dichloromethane (DCM) (Methylene chloride),1000,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Landfill,Non Hazardous Landfill,2016
+Forfarmers UK Limited,Bocm Pauls Portbury Royal Portbury Dock Portbury Avon,BS20 7XS,51.4830908897,-2.71798390852,Wessex,Air,Particulate matter - total,10000,,Food & Drink,Food & Drink,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Cement and Minerals,Minerals,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Benzo(a)pyrene,1,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,"Indeno(1,2,3-cd)pyrene",1,,Combustion,EfW,2016
+Andersons Waste Treatment Centre Limited,Unit 6 Hydro Estate St Andrews Road Avonmouth Avon,BS11 9HS,51.5080483334,-2.694602846,Wessex,Air,Ammonia,1000,,Waste treatment,Non Hazardous,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Wastewater,Chromium,20,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Wastewater,Nickel,20,,Metals,Surface treatment,2016
+Tradebe Healthcare (Southwest) Limited,203 Burcott Lane Avonmouth Bristol,BS11 8AP,51.5178100531,-2.685960353,Wessex,Air,Carbon dioxide,10000000,,Waste treatment,Hazardous,2016
+New Earth Solutions (West) Limited,Avonmouth MBT Kings Weston Lane Avonmouth Bristol Avon,BS11 9FG,51.5105921253,-2.69017461962,Wessex,Air,Carbon dioxide,10000000,,Biowaste,Biowaste treatment,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Chromium,10,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Nickel,10,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Benzo(a)pyrene,1,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Particulate matter - total,10000,,Combustion,EfW,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Benzo(a)pyrene,1,,Water Industry,Water Industry,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Copper,20,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Lead,20,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Carbon tetrachloride (Tetrachloromethane),10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,"Methyl chloroform (1,1,1-Trichloroethane)",10,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Chlorides - as Cl,2000000,17000000,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Benzo(a)pyrene,1,2.75,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Carbon tetrachloride (Tetrachloromethane),10,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Carbon dioxide,10000000,50000000,Water Industry,Water Industry,2017
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Methane,10000,204450,Combustion,Power,2017
+Phillips; Phillips,Mudgley Lodge Farm Mudgley Road Rooksbridge Axbridge Somerset,BS26 2TL,51.259513636,-2.91656876967,Wessex,Air,Ammonia,1000,3674.2,Agriculture,Intensive Farming,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Methane,10000,,Chemicals,Chemicals,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon dioxide,10000000,277450000,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Naphthalene,100,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Benzo(b)fluoranthene,1,,EfW,EfW,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,Water Industry,Water Industry,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Chromium,20,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Benzo(a)pyrene,1,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,EfW,EfW,2017
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Wastewater,Total organic carbon (TOC),50000,116490,Food & Drink,Food & Drink,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,EfW,EfW,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Methane,10000,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Zinc,100,133,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Carbon monoxide,100000,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Mercury,1,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Benzo(k)fluoranthene,1,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Naphthalene,100,,EfW,EfW,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Carbon monoxide,100000,,Landfill,Non Hazardous Landfill,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Methane,10000,,Landfill,Non Hazardous Landfill,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Carbon dioxide,10000000,,Landfill,Non Hazardous Landfill,2017
+Tulip Ltd,Tulip Fresh Meats Ltd Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Particulate matter - total,10000,,Food & Drink,Food & Drink,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Fluoranthene,0,0.1,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Mercury,0,0.364,Combustion,Power,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,"Indeno(1,2,3-cd)pyrene",1,3.69,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Phenols - total as C,20,26.8,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Nonylphenols and nonylphenol ethoxylates,1,207,Water Industry,Water Industry,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Particulate matter - total,10000,702.2,Combustion,EfW,2016
+Phillips; Phillips,Mudgley Lodge Farm Mudgley Road Rooksbridge Axbridge Somerset,BS26 2TL,51.259513636,-2.91656876967,Wessex,Air,Ammonia,1000,3674.2,Agriculture,Intensive Farming,2016
+Lukins and Son,Townsend Farm Prowses Lane Townsend Somerset,BS26 2AJ,51.2884224665,-2.82608209035,Wessex,Air,Ammonia,1000,5100,Agriculture,Intensive Farming,2016
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Wastewater,Total organic carbon (TOC),50000,126919,Food & Drink,Food & Drink,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Total organic carbon (TOC),50000,132000,Water Industry,Water Industry,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,"Tetrachloroethane (1,1,2,2-Tetrachloroethane)",10,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Air,Chlorofluorocarbons (CFCs),1,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Controlled Waters,Chlorides - as Cl,2000000,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Controlled Waters,Copper,20,,Landfill,Non Hazardous Landfill,2016
+MAGNOX LIMITED,Magnox Electric Plc Oldbury Power Station Oldbury Naite Oldbury-on-Severn Avon,BS35 1RQ,51.6468354107,-2.56953463285,Wessex,Controlled Waters,Nickel,20,,Landfill,Non Hazardous Landfill,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Nitrous oxide,10000,,Metals,Surface treatment,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Chromium,10,,Metals,Surface treatment,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Chromium,20,,Waste treatment,Hazardous,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Waste treatment,Hazardous,2016
+Lukins and Son,Townsend Farm Prowses Lane Townsend Somerset,BS26 2AJ,51.2884224665,-2.82608209035,Wessex,Air,Nitrous oxide,10000,,Agriculture,Intensive Farming,2016
+Tulip Ltd,Tulip Fresh Meats Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Particulate matter - PM10,1000,,Food & Drink,Food & Drink,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Trichlorobenzene - all isomers,1,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Perfluorocarbons (PFCs),10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Hexachlorocyclohexane (HCH) -all isomers,1,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Chromium,20,,Water Industry,Water Industry,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Nitrous oxide,10000,,Cement and Minerals,Minerals,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Wastewater,Total organic carbon (TOC),50000,,Cement and Minerals,Minerals,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Lead,100,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Mercury,1,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Benzo(k)fluoranthene,1,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Particulate matter - total,10000,,Combustion,EfW,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Nickel,10,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Metals,Surface treatment,2016
+Suez Recycling And Recovery Uk Ltd,Avonmouth Resource Park Merebank Road Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Chromium,20,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Avonmouth Resource Park Merebank Road Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Halogenated organic compounds - as AOX,1000,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Cadmium,1,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Benzo(k)fluoranthene,1,,Combustion,EfW,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Arsenic,5,,Landfill,Non Hazardous Landfill,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Zinc,100,,Landfill,Non Hazardous Landfill,2016
+Hanson Aggregates - South West,Chipping Sodbury Wickwar Road Chipping Sodbury BRISTOL,BS37 6AY,51.5479103342,-2.39941966764,Wessex,Air,Particulate matter - PM10,50000,,No Far Sector,No Far Sector,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,"Brominated diphenylethers - penta-, octa- and deca- BDE",0,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Cyanides - as CN,50,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Arsenic,5,,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Nitrogen - as total N,50000,,Combustion,Power,2016
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Copper,20,,Waste treatment,Hazardous,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Total organic carbon (TOC),50000,,Metals,Surface treatment,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Zinc,100,,Metals,Surface treatment,2016
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Carbon dioxide,10000000,,Food & Drink,Food & Drink,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Vinyl chloride,1000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Dichloromethane (DCM) (Methylene chloride),1000,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Hydrochlorofluorocarbons (HCFCs),1,1.06,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Halons,1,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Chloroform (Trichloromethane),100,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Toluene,10,,Landfill,Non Hazardous Landfill,2017
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Trichlorobenzene - all isomers,1,,Landfill,Non Hazardous Landfill,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Naphthalene,100,,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Nonylphenols and nonylphenol ethoxylates,1,200,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Cyanides - as CN,50,111,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Halogenated organic compounds - as AOX,1000,8730,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Phosphorus - as total P,5000,303000,Water Industry,Water Industry,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Cadmium,1,8.07,Water Industry,Water Industry,2017
+Stratton; Stratton; Stratton,Manor Farm Poultry Unit Near Middlepiece Lane Keynsham Avon,BS31 2TF,51.3848405519,-2.48421923553,Wessex,Air,Ammonia,1000,6545,Agriculture,Intensive Farming,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Hydrofluorocarbons (HFCs),100,349,Chemicals,Chemicals,2017
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Nitrogen - as total N,50000,,Chemicals,Chemicals,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Particulate matter - PM10,1000,,Waste Treatment,Hazardous,2017
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Wastewater,Nickel,20,,Waste Treatment,Hazardous,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,272808,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Benzo(k)fluoranthene,1,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Benzo(a)pyrene,1,,EfW,EfW,2017
+Rolls-Royce Power Develoments Ltd,Bristol Ocgt Power Station Rolls-Royce Mael Works Bristol,BS12 7QE,51.5265505391,-2.56457289321,Wessex,Air,Carbon monoxide,100000,,Combustion,Power,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Asbestos,0,0.96,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Nonylphenols and nonylphenol ethoxylates,1,30.6,Water Industry,Water Industry,2017
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Tributyltin and compounds - as TBT,0,0.00803,Water Industry,Water Industry,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Mercury,1,,EfW,EfW,2017
+Suez Recycling And Recovery Uk Ltd,Avonmouth Cynar Facility Avonmouth Resource Park Merebank Road Kings Weston Lane BRISTOL,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Benzo(k)fluoranthene,1,,EfW,EfW,2017
+Tradebe Healthcare (Southwest) Limited,203 Burcott Lane Avonmouth Bristol,BS11 8AP,51.5178100531,-2.685960353,Wessex,Air,Carbon dioxide,10000000,,Waste Treatment,Hazardous,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Anthracene,10,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,EfW,EfW,2017
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Benzo(k)fluoranthene,1,,EfW,EfW,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Organotin compounds - as Sn,5,,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Phosphorus - as total P,5000,8260,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Copper,20,101,Water Industry,Water Industry,2017
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Ammonia,1000,,Water Industry,Water Industry,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Anthracene,10,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Arsenic,1,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,"Indeno(1,2,3-cd)pyrene",1,,EfW,EfW,2017
+Packcare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Particulate matter - total,10000,,EfW,EfW,2017
+P D Hook (Rearing),Jobes Green Farm Shepperdine Bristol Avon,BS35 1DL,51.6518243293,-2.56049062093,Wessex,Air,Particulate matter - PM10,1000,3088,Agriculture,Intensive Farming,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Landfill,Non Hazardous Landfill,2017
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Zinc,100,,Landfill,Non Hazardous Landfill,2017
+Etex Building Performance Limited,Etex Building Performance Limited Redland Avenue Easton-in-Gordano Bristol,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Cement and Minerals,Minerals,2017
+Tulip Ltd,Tulip Fresh Meats Ltd Oakley Green Westerleigh Avon,BS37 8QZ,51.5075494581,-2.44604001153,Wessex,Air,Carbon dioxide,10000000,,Food & Drink,Food & Drink,2017
+Alvis Bros Ltd,Lyehole Piggery Lyehole Lane Redhill Avon,BS40 5RJ,51.3539146804,-2.7265902055,Wessex,Air,Methane,10000,13905.42,Agriculture,Intensive Farming,2017
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,0.000164,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Cadmium,1,1.22,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Benzo(b)fluoranthene,1,1.75,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Anthracene,0,3.12,Water Industry,Water Industry,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Chlorofluorocarbons (CFCs),1,6.55,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Chloroform (Trichloromethane),5,8.78,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,14.2,Water Industry,Water Industry,2016
+Suez Recycling And Recovery Uk Ltd,Avonmouth Resource Park Merebank Road Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Air,Carbon monoxide,100000,23,Combustion,EfW,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Copper,20,41.5,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Copper,20,600,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Halogenated organic compounds - as AOX,1000,1260,Water Industry,Water Industry,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Air,Ammonia,1000,2500,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Fluorides - as F,2000,2910,Water Industry,Water Industry,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,286331,Cement and Minerals,Minerals,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Carbon monoxide,100000,1188200,Combustion,Power,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Carbon Dioxide From Qualifying Renewable Fuel Sources,0,31145016,Combustion,EfW,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Air,Carbon dioxide,10000000,11500000,Landfill,Non Hazardous Landfill,2016
+PRAXAIR SURFACE TECHNOLOGIES LTD,Oldmixon Industrial Estate Oldmixon Crescent Weston Super Mare North Somerset,BS24 9AX,51.3277765366,-2.95983710274,Wessex,Air,Carbon monoxide,100000,,Metals,Surface treatment,2016
+Cory Environmental (Gloucestershire) Limited,Shortwood Quarry Landfill Site Shortwood Pucklechurch Bristol,BS16 9NN,51.4878795664,-2.46356361502,Wessex,Wastewater,Zinc,100,,Landfill,Non Hazardous Landfill,2016
+Augean Treatment Ltd,Augean Waste Treatment Plant Smoke Lane Avonmouth Avon,BS11 0YA,51.522484406,-2.68617491996,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Waste treatment,Hazardous,2016
+Avonmouth Bio Power Energy Limited,"Avonmouth Energy Facility,Former Britannia Zinc Works Kings Weston Lane Avonmouth Avon",BS11 8AZ,51.5105921253,-2.69017461962,Wessex,Air,Polychlorinated biphenyls (PCBs),0,,Combustion,EfW,2016
+Suez Recycling And Recovery Uk Ltd,Severnside Energy Recovery Centre Severside Energy Recovery Centre Severn Road Hallen Avon,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Cadmium,1,,Combustion,EfW,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Wastewater,Benzene,10,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Tetrachloroethylene (PER),100,,Landfill,Non Hazardous Landfill,2016
+Viridor Waste Exeter Limited,Yanley Landfill Bridgewater Road Bristol,BS13 8AF,51.4236497729,-2.64140004536,Wessex,Air,Halons,1,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BRISTOL (AVONMOUTH) STW,BS11 9AA,51.5115793978,-2.67505868199,Wessex,Controlled Waters,Organotin compounds - as Sn,5,,Water Industry,Water Industry,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Cement and Minerals,Minerals,2016
+Siniat Limited,Siniat Limited Redlands Avenue Easton-in-Gordano,BS20 0FB,51.48960805,-2.71088511099,Wessex,Air,Carbon monoxide,100000,,Cement and Minerals,Minerals,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Cadmium,1,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Chromium,10,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Copper,10,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Nickel,10,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Naphthalene,100,,Combustion,EfW,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Copper,10,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Zinc,100,,Metals,Surface treatment,2016
+Suez Recycling And Recovery Uk Ltd,Avonmouth Resource Park Merebank Road Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5151120023,-2.68606383925,Wessex,Wastewater,Zinc,100,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Lead,100,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Combustion,EfW,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Nickel,20,,Landfill,Non Hazardous Landfill,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Carbon dioxide,10000000,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Phenols - total as C,20,,Water Industry,Water Industry,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Chemicals,Chemicals,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Total organic carbon (TOC),50000,,Chemicals,Chemicals,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Chemicals,Chemicals,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,,Chemicals,Chemicals,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Chlorides - as Cl,2000000,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Fluoranthene,0,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,"Indeno(1,2,3-cd)pyrene",1,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Air,Carbon dioxide,10000000,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as WHO TEQ,0,,Water Industry,Water Industry,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Zinc,100,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Combustion,EfW,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Carbon monoxide,100000,,Landfill,Non Hazardous Landfill,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Methane,10000,,Landfill,Non Hazardous Landfill,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Cadmium,1,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Chloroform (Trichloromethane),100,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Carbon dioxide,10000000,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,"Brominated diphenylethers - penta-, octa- and deca- BDE",0,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Air,Methane,10000,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Octylphenols and octylphenol ethoxylates,1,,Water Industry,Water Industry,2016
+Phillips; Phillips,Mudgley Lodge Farm Mudgley Road Rooksbridge Axbridge Somerset,BS26 2TL,51.259513636,-2.91656876967,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Agriculture,Intensive Farming,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Chlorides - as Cl,2000000,,Combustion,Power,2016
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Cadmium,1,,Waste treatment,Hazardous,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Cyanides - as CN,50,,Metals,Surface treatment,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Nickel,20,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Selenium,100,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Wastewater,Cadmium,1,,Metals,Surface treatment,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Carbon monoxide,100000,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Carbon dioxide,10000000,,Combustion,EfW,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Lead,20,,Landfill,Non Hazardous Landfill,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Air,Methane,10000,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,"Indeno(1,2,3-cd)pyrene",1,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Dichloromethane (DCM) (Methylene chloride),10,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Water Industry,Water Industry,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Chemicals,Chemicals,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Air,Particulate matter - total,10000,,Chemicals,Chemicals,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Benzo(b)fluoranthene,1,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Dioxins and furans (PCDDs/PCDFs) - as ITEQ,0,,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Combustion,Power,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Air,Chromium,10,,Metals,Surface treatment,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Copper,20,,Metals,Surface treatment,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Lead,20,,Metals,Surface treatment,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Air,Fluorine and inorganic fluorine compounds - as HF,1000,,Metals,Surface treatment,2016
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Carbon monoxide,100000,,Food & Drink,Food & Drink,2016
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Food & Drink,Food & Drink,2016
+Accolade Wines Limited,Accolade Park Kings Weston Lane Avonmouth Avon,BS11 9FG,51.5172545561,-2.68869025175,Wessex,Air,Hydrofluorocarbons (HFCs),100,,Food & Drink,Food & Drink,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Carbon monoxide,100000,,Combustion,EfW,2016
+WasteCare Limited,Avonmouth Drum Incinerator Plant Avonmouth Way West Avonmouth,BS11 9HD,51.5038269949,-2.69381805949,Wessex,Air,Benzo(b)fluoranthene,1,,Combustion,EfW,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Mercury,1,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Wastewater,Copper,20,,Metals,Surface treatment,2016
+Smart Systems Limited,Arnolds Way Arnolds Way Yatton North Somerset,BS49 4QN,51.3906740067,-2.83711920115,Wessex,Air,Particulate matter - PM10,1000,,Metals,Surface treatment,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Copper,10,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Mercury,1,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Nitrogen oxides (NO and NO2) as NO2,100000,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Arsenic,1,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Naphthalene,100,,Combustion,EfW,2016
+Srcl Limited,Avonmouth Clinical Waste Incinerator Holesmouth Road Avonmouth Avon,BS11 9BP,51.5217321264,-2.6917847822,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Combustion,EfW,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Chromium,20,,Landfill,Non Hazardous Landfill,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Landfill,Non Hazardous Landfill,2016
+St Modwen Properties I S. a. r. l,KINGSWESTON LANE AVONMOUTH BRISTOL,BS11 8HT,51.508827803,-2.68438421536,Wessex,Wastewater,Chlorides - as Cl,2000000,,Landfill,Non Hazardous Landfill,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Benzo(k)fluoranthene,1,,Water Industry,Water Industry,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Nitrogen - as total N,50000,,Chemicals,Chemicals,2016
+Avara Avlon Pharma Services Ltd,Avlon Works Severn Road Hallen Avon,BS10 7ZE,51.5462116679,-2.65668072825,Wessex,Controlled Waters,Phosphorus - as total P,5000,,Chemicals,Chemicals,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Cyanides - as CN,50,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Phenols - total as C,20,,Water Industry,Water Industry,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Chlorine and inorganic chlorine compounds - as HCl,10000,,Combustion,Power,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Mercury,0,,Metals,Surface treatment,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Octylphenols and octylphenol ethoxylates,1,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Organotin compounds - as Sn,5,,Water Industry,Water Industry,2016
+Wessex Water,BATH (SALTFORD) STW,BS31 3ER,51.4173528259,-2.44861261931,Wessex,Controlled Waters,Atrazine,0,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Chloroform (Trichloromethane),5,,Water Industry,Water Industry,2016
+Wessex Water,WESTON SUPER MARE STW,BS24 0AP,51.3070251519,-2.9898184084,Wessex,Controlled Waters,Organotin compounds - as Sn,5,,Water Industry,Water Industry,2016
+Phillips; Phillips,Mudgley Lodge Farm Mudgley Road Rooksbridge Axbridge Somerset,BS26 2TL,51.259513636,-2.91656876967,Wessex,Air,Methane,10000,,Agriculture,Intensive Farming,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Air,Sulphur oxides (SO2 and SO3) as SO2,100000,,Combustion,Power,2016
+SEABANK POWER LTD,Seabank Power Station Severn Road Hallen Bristol,BS10 7SP,51.528966078,-2.65340415699,Wessex,Controlled Waters,Cadmium,1,,Combustion,Power,2016
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Air,Non-methane volatile organic compounds (NMVOCs),10000,,Waste treatment,Hazardous,2016
+CLEANSING SERVICE GROUP LTD,Csg Bristol Treatment Plant Pennywell Road Bristol Avon,BS5 0TQ,51.4617497824,-2.57715858129,Wessex,Wastewater,Zinc,100,,Waste treatment,Hazardous,2016
+GKN AEROSPACE SERVICES LTD,New Filton House Near Golf Course Lane Filton Avon,BS99 7AR,51.5095570245,-2.58280638056,Wessex,Wastewater,Cadmium,1,,Metals,Surface treatment,2016

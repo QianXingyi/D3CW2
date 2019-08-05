@@ -1,0 +1,162 @@
+<!-- The CSS styles of this file are  partly referenced from the W3Schools's Tutorial of Bootstrap-->
+<!-- https://www.w3schools.com/bootstrap/bootstrap_get_started.asp -->
+<!-- custom.geo.json is from http://edshare.soton.ac.uk/19800/ -->
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>COMP6214:&nbsp;Open&nbsp;Data&nbsp;Innovation&nbsp;Coursework&nbsp;1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <style type="text/css">
+        body {
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        #map svg {
+            background-color: white;
+            text-align: center;
+
+        }
+
+        path.active {
+            stroke-width: 5;
+        }
+
+        div.tooltip {
+            position: absolute;
+            text-align: center;
+            width: 100px;
+            padding: 3px;
+            font: 14px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+            opacity: 0;
+        }
+
+        div.tooltip.active {
+            opacity: 0.9;
+        }
+
+        div.svgDiv {
+            margin-left: 5px;
+            margin-right: 5px;
+            margin-bottom: 15px;
+            min-width: 1000px;
+            min-height: 540px;
+            text-align: center;
+        }
+
+        .h4 {
+            height: 60px;
+        }
+
+        #page {
+            padding-left: 12px;
+            padding-right: 12px;
+            padding-top: 6px;
+            padding-bottom: 6px;
+        }
+
+        #instruction {
+            text-align: left;
+            font-size: 120%;
+        }
+    </style>
+   <script type="text/javascript" src="xq1m18.js"></script>
+</head>
+
+<body>
+    <div id="home"></div>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Open Data Innovation</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#home">Home</a></li>
+                    <li><a href="#alertInfo">Map</a></li>
+                    <li><a href="#vreport">Instruction</a></li>
+                    <li><a href="report.html">Report</a></li>
+                    <li><a href="references.html">References</a></li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </nav>
+    <div class="jumbotron text-center">
+        <h2>COMP6214:&nbsp;Open&nbsp;Data&nbsp;Innovation</h2>
+        <p>Qian&nbsp;Xingyi&nbsp;ID:&nbsp;xq1m18&nbsp;30037131</p>
+        <h2>Visualization</h2>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="alert alert-success">
+                <p>Place the mouse over a bar in the bar chart or click on the country in the map to get the energy
+                    structure of the country in the pie chart.</p>
+                <p> pie chart shows the summary information of energy structure by default.</p>
+            </div>
+        </div>
+        <div class="row">
+                <button type="button" class="btn btn btn-warning">View&nbsp;factories':</button>
+            <button type="button" class="btn btn btn-success" onclick="viewType(0)">Numbers</button>
+
+            <button type="button" class="btn btn btn-info" onclick="viewType(1)">Released(kg)</button>
+
+        </div>
+
+        <div class="row" style="height:60px;">
+            <div class="col-md-6">
+            </div>
+            <div class="col-md-6">
+            </div>
+        </div>
+
+        <div id="svgDiv" class="row">
+            <div class="col-md-6">
+                <h4 id="svgTitleBar">Number of factories by area</h4>
+                <div id="barSvgDiv" style="min-height:460px;"></div>
+            </div>
+            <div class="col-md-6">
+                <h4 id="svgTitlePie">Pollution structure details</h4>
+                <div id="pieSvgDiv" style="min-height:460px;"></div>
+            </div>
+        </div>
+        <div class="row" id="alertInfo">
+            <div class="alert alert-success">
+                <p>The light blue dots show the location of all the power stations in the data, and the gradient from
+                    brown to blue indicates the number of power stations in the country.</p>
+                <p>Click on the map to get the country's energy information. The second click will uncheck. </p>
+                <p>Walk \u003cb\u003enorth-west\u003c/b\u003e towards \u003cb\u003eSalisbury Rd\u003c/b\u003e</p>
+            </div>
+        </div>
+        <div class="row" name="mapNav" id="mapNav">
+            <div id="map"></div>
+            <div id="map_tooltip" class="tooltip"></div>
+        </div>
+
+    </div>
+
+
+
+    </div>
+
+</body>
+
+</html>
